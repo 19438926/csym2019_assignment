@@ -5,7 +5,7 @@
     function clickfunction(){
         var element=document.getElementById('myinput');
         var div=document.getElementById('result');
-        div.firstChild.nodeValue=element.value;
+        
 
     }
     document.addEventListener('DOMContentLoaded',loadfunction)
