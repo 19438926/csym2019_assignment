@@ -1,0 +1,17 @@
+{
+    "BBC Good food Recipes": [
+        {
+            "id": 1,
+            "title": "Herby spring chicken pot pie",
+            "prep time(minutes)": 10,
+            "cook time(minutes)": 30,
+            "complexity": "Easy",
+            "serves": 4,
+            "intruduction": "Minimise your washing-up with this delicious one-pan chicken pie with spinach and herbs and topped with crispy filo pastry. It's ideal for busy weeknights",
+            "Nutrition per serving": 4,
+            "Ingredients": "2 tbsp olive oil , plus a little extra for brushing over the pastry bunch spring onions , sliced into 3cm pieces 250g frozen spinach 6 ready-cooked chicken thighs (or see tip, below) 350ml hot chicken stock ½ tbsp wholegrain mustard 200g frozen peas 200ml half-fat crème fraiche ½ small bunch tarragon , leaves finely chopped small bunch parsley , finely chopped 270g pack filo pastry",
+            
+            "Method":"Heat oven to 200C/180C fan/gas 6. Heat the oil in a large, shallow casserole dish on a medium heat. Add the spring onions and fry for 3 mins, then stir through the frozen spinach and cook for 2 mins or until it’s starting to wilt. Remove the skin from the chicken and discard. Shred the chicken off the bone and into the pan, and discard the bones. Stir through the stock and mustard. Bring to a simmer and cook, uncovered, for 5-10 mins. Stir in the peas, crème fraîche and herbs, then remove from the heat. Scrunch the filo pastry sheets over the mixture, brush with a little oil and bake for 15-20 mins or until golden brown."
+        }
+    ]
+}
