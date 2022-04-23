@@ -21,6 +21,91 @@
             "Ingredients": "2 tbsp olive oil , plus a little extra for brushing over the pastry bunch spring onions , sliced into 3cm pieces 250g frozen spinach 6 ready-cooked chicken thighs (or see tip, below) 350ml hot chicken stock ½ tbsp wholegrain mustard 200g frozen peas 200ml half-fat crème fraiche ½ small bunch tarragon , leaves finely chopped small bunch parsley , finely chopped 270g pack filo pastry",
             
             "Method":"Heat oven to 200C/180C fan/gas 6. Heat the oil in a large, shallow casserole dish on a medium heat. Add the spring onions and fry for 3 mins, then stir through the frozen spinach and cook for 2 mins or until it’s starting to wilt. Remove the skin from the chicken and discard. Shred the chicken off the bone and into the pan, and discard the bones. Stir through the stock and mustard. Bring to a simmer and cook, uncovered, for 5-10 mins. Stir in the peas, crème fraîche and herbs, then remove from the heat. Scrunch the filo pastry sheets over the mixture, brush with a little oil and bake for 15-20 mins or until golden brown."
+        },
+        {
+            "id": 2,
+            "title": "Mini bakewell tarts",
+            "prep time(minutes)": 30,
+            "cook time(minutes)": 40,
+            "complexity": "Easy",
+            "serves": 12,
+            "intruduction": "Use shop-bought pastry to make our easy bakewell tarts. Simply layer jam, frangipane and icing inside a shortcrust case for a nostalgic teatime treat",
+            "Nutrition per serving": {
+                "kcal":534,
+                "fat(g)":30,
+                "saturates(g)":12,
+                "carbs(g)":57,
+                "sugars(g)":32,
+                "fibre(g)":2,
+                "protein(g)":6,
+                "salt(g)":0.5
+            },
+            "Ingredients": "2 x 320g sheets of all butter shortcrust pastry 120g butter, softened 120g golden caster sugar 1 egg 1 tbsp plain flour 110g ground almonds 90g cherry jam 200g icing sugar 12 glacé cherries",
+            "Method":"Heat the oven to 180C/160C fan/gas 4. Lightly butter a 12 hole muffin tin. Unroll the sheet of pastry and use a 10cm circular pastry cutter to cut 12 circles out of the pastry sheet. Press the cut circles into the holes of the tin, making sure they come right up and slightly over the top – pushing out any creases. Chill the pastry in the fridge for 20mins. Scrunch up 10cm x 10cm squares of baking paper and then un-scrunch and use to line each of the pastry tarts, then fill with baking beans, rice or dried pulses. Bake for 10 mins, then remove the paper and beans and bake for 10 mins longer, until golden brown. Set aside to cool a little. Make the filling by beating together the butter and sugar until light and fluffy, then whisk in the egg, followed by the flour (the flour will prevent the mixture from splitting). Fold in the ground almonds. Spoon a level tsp of cherry jam into each of the pastry shells, followed by a tablespoon of the frangipane mixture. Bake for 20 mins, until the frangipane is golden and springy. Set aside to cool completely. Neaten the edges of the pastry with a small knife or scissors if you like. Mix the icing sugar with 2 tbsp water. Spread the icing over each of the tarts, top each with a glacé cherry, leave to set for 20 mins, then serve with tea."
+        },
+        {
+            "id": 3,
+            "title": "Lemon & buttermilk pound cake",
+            "prep time(minutes)": 25,
+            "cook time(minutes)": 45,
+            "complexity": "Easy",
+            "serves": 12,
+            "intruduction": "This buttermilk pound cake has a dense, moist crumb and bags of lemon flavour to cut through the richness. Make it for afternoon tea or for a summer picnic",
+            "Nutrition per serving": {
+                "kcal":291,
+                "fat(g)":10,
+                "saturates(g)":6,
+                "carbs(g)":47,
+                "sugars(g)":34,
+                "fibre(g)":1,
+                "protein(g)":4,
+                "salt(g)":0.4
+            },
+            "Ingredients": "125g butter, plus extra for the tin 200g plain flour, plus extra for dusting¼ tsp bicarbonate of soda¼ tsp baking powder200g golden caster sugar4 lemons, finely zested (save a little for the top if you like)2 large eggs, at room temperature, lightly beaten100ml buttermilk, at room temperature½ lemon, juiced50g granulated sugar2 large lemons, juiced (use the lemons you’ve zested)150g icing sugar, sifted 2-3 tbsp lemon juice",
+            "Method":"Heat oven to 180C/160C fan/gas 4. Butter and flour a loaf tin measuring 22 x 11 x 7cm. Sift the flour with a pinch of salt, bicarbonate of soda and baking powder. Beat the butter and sugar until pale and fluffy, then add the lemon zest. Gradually add the eggs a little at a time, beating well after each addition. Mix the buttermilk with the lemon juice. Fold the flour mixture into the batter, alternating with the buttermilk and lemon mixture Scrape the batter into the loaf tin and bake for 40-45 mins, or until a skewer inserted into the centre of the cake comes out clean. Leave to sit for 10 mins, then turn out onto a wire cooling rack with a tray underneath it. Set the cake the right way up. To make the syrup, put the ingredients in a small saucepan and heat until the sugar has dissolved. Pierce the cake all over with a skewer then, while the cake is still warm, pour the syrup over slowly. Leave to cool. Gradually add the lemon juice to the icing sugar and mix until just smooth. If runny, put in the fridge for about 10 mins – you don’t want it to set, you just want it become a little firmer. Pour or spread the icing over the cake (the bits that drizzle down the side will be caught by the tray under the cooling rack). This icing won’t set hard, but do leave it to set a little before serving."
+        },
+        {
+            "id": 4,
+            "title": "Spring chicken in a pot",
+            "prep time(minutes)": 20,
+            "cook time(minutes)": 45,
+            "complexity": "Easy",
+            "serves": 4,
+            "intruduction": "Casseroles aren't just for winter  this light, vibrant one-pot is packed with spring veg and herby pesto",
+            "Nutrition per serving": {
+                "kcal":339,
+                "fat(g)":10,
+                "saturates(g)":3,
+                "carbs(g)":27,
+                "sugars(g)":12,
+                "fibre(g)":8,
+                "protein(g)":36,
+                "salt(g)":0.5
+            },
+            "Ingredients": "1 tbsp olive oil1 onion , chopped500g boneless, skinless chicken thigh300g small new potato425ml low-salt vegetable stock (such as Kallo low-salt vegetable stock cubes)350g broccoli , cut into small florets350g spring green , shredded140g petits poisbunch spring onion , sliced2 tbsp pesto",
+            "Method":"Heat the oil in a large, heavy pan. Add the onion, gently fry for 5 mins until softened, add the chicken, then fry until lightly coloured. Add the potatoes, stock and plenty of freshly ground black pepper, then bring to the boil. Cover, then simmer for 30 mins until the potatoes are tender and the chicken is cooked. Can be frozen at this point Add the broccoli, spring greens, petit pois and spring onions, stir well, then return to the boil. Cover, then cook for 5 mins more, stir in the pesto and heat through.",
+        },
+        {
+            "id": 5,
+            "title": "Healthy Easter lamb",
+            "prep time(minutes)": 30,
+            "cook time(minutes)": 55,
+            "complexity": "Easy",
+            "serves": 10,
+            "intruduction": "Try a lighter take on roast lamb with this healthy Easter centrepiece. A trimmed leg of lamb is served with vibrant spring vegetables tossed in herbs and lemon",
+            "Nutrition per serving": {
+                "kcal":439,
+                "fat(g)":17,
+                "saturates(g)":5,
+                "carbs(g)":15,
+                "sugars(g)":6,
+                "fibre(g)":12,
+                "protein(g)":49,
+                "salt(g)":0.37
+            },
+            "Ingredients": "2 onions , peeled and thickly sliced2 large carrots , thickly slicedboneless leg of lamb (around 1.5kg), trimmed of excess fat 4 garlic cloves , sliced3 rosemary sprigs , leaves picked2 tbsp olive oil800g baby carrots , peeled500g frozen broad beans600g frozen peassmall bunch mint , finely choppedsmall bunch parsley , finely chopped1 lemon , zested and juiced",
+            "Method":"Heat the oven to 200C/180C fan/gas 6. Put the onions and sliced carrots in a large roasting tray. Remove any string from the lamb and put it on top of the veg, skin-side up. Pierce the lamb with the tip of a knife to make small pockets in the meat, add garlic slices and a few rosemary leaves to the holes. Rub the lamb with 1 tbsp olive oil and season. Pour 100ml water into the tray. Roast uncovered for 45 minutes at the top of the oven. Check the internal temperature, it should read 60C for medium (pink). Cook for another 15 minutes for well done. Rest the meat under foil for 10 mins while you cook the veg. Bring a large pan of salted water to the boil. Add the carrots, and cook for 8 minutes until tender, adding the peas and beans for the last 2 minutes. Drain the veg and toss with 1 tbsp oil, chopped herbs, lemon zest and juice. Season to tasteCarve the lamb into thin slices. Spread the veg onto a large warmed serving platter and arrange the meat in the middle."
         }
+
     ]
 }
