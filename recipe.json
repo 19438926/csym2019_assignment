@@ -210,7 +210,113 @@
             },
             "Ingredients": "350g turkey thigh mince1 tsp dried oregano1 tsp fennel seeds1½ tbsp olive oil1 large onion, chopped3 garlic cloves, crushed1 tbsp tomato purée2 x 400g cans chopped tomatoes2 tsp sugar150g ball mozzarella, torn into pieces4 garlic breadsticks or garlic bread slices, torn or chopped into chunks25g cheddar, gratedgreen salad or spaghetti, to serve",
             "Method":"Combine the mince, oregano, fennel seeds and some seasoning in a bowl. Take walnut-sized pieces of the mixture and roll into balls. Heat half the oil in a large, shallow ovenproof pan and cook the meatballs until browned all over – don’t worry if they’re not cooked through. Transfer to a plate. Heat the oven to 200C/180C fan/gas 6. Heat the remaining oil in the pan and add the onion. Cook until softened, about 10-12 mins, stirring regularly. Stir in the garlic for another minute, then the tomato purée, chopped tomatoes and sugar. Simmer for 10-15 mins, then season to taste. Place the meatballs on top of the sauce, then add the mozzarella, garlic bread and the cheddar on top. Bake for 15-20 mins until golden and crisp"
+        },
+        {
+            "id": 11,
+            "title": "Beef & vegetable casserole",
+            "prep time(minutes)": 15,
+            "cook time(minutes)": 230,
+            "complexity": "Easy",
+            "serves": 5,
+            "intruduction": "A traditional braised beef stew with thick, rich gravy – an ideal recipe for cheap cuts, as slow-cooking guarantees a tender dish",
+            "Nutrition per serving": {
+                "kcal":483,
+                "fat(g)":32.6,
+                "saturates(g)":13.4,
+                "carbs(g)":14.3,
+                "sugars(g)":7.4,
+                "fibre(g)":2.3,
+                "protein(g)":33.7,
+                "salt(g)":1.6
+            },
+            "Ingredients": "2 celery sticks, thickly sliced1 onion, chopped2 really big carrots, halved lengthways then very chunkily sliced5 bay leaves2 thyme sprigs, 1 whole and 1 leaves picked1 tbsp vegetable oil1 tbsp butter2 tbsp plain flour2 tbsp tomato purée2 tbsp Worcestershire sauce2 beef stock cubes, crumbled850g stewing beef (featherblade or brisket works nicely), cut into nice large chunks",
+            "Method":"Heat oven to 160C/140C fan/gas 3 and put the kettle on. Put 2 thickly sliced celery sticks, 1 chopped onion, 2 chunkily sliced carrots, 5 bay leaves and 1 whole thyme sprig in a flameproof casserole dish with 1 tbsp vegetable oil and 1 tbsp butter.  Soften for 10 mins, then stir in 2 tbsp plain flour until it doesn’t look dusty anymore, followed by 2 tbsp tomato purée, 2 tbsp Worcestershire sauce and 2 crumbled beef stock cubes. Gradually stir in 600ml hot water, then tip in 850g stewing beef and bring to a gentle simmer. Cover and put in the oven for 2hrs 30 mins, then uncover and cook for 30mins – 1hr more until the meat is really tender and the sauce is thickened. Garnish with the picked leaves of the remaining thyme sprig."
+        },
+        {
+            "id": 12,
+            "title": "Beef goulash",
+            "prep time(minutes)": 20,
+            "cook time(minutes)": 150,
+            "complexity": "Easy",
+            "serves": 4,
+            "intruduction": "Make this hearty beef goulash to feed the family on chilly nights. Stir in the soured cream and parsley for an indulgent, crowd-pleasing supper",
+            "Nutrition per serving": {
+                "kcal":576,
+                "fat(g)":32,
+                "saturates(g)":12,
+                "carbs(g)":18,
+                "sugars(g)":11,
+                "fibre(g)":6,
+                "protein(g)":46,
+                "salt(g)":0.45
+            },
+            "Ingredients": "4 tbsp olive oil700g stewing steak, cut into chunks30g plain flour1 large onion, thinly sliced2 garlic cloves, finely chopped1 green pepper, deseeded and thinly sliced1 red pepper, deseeded and thinly sliced2 tbsp tomato purée2 tbsp paprika2 large tomatoes, diced75ml dry white wine300ml beef stock, homemade or shop-bought2 tbsp flat-leaf parsley leaves150ml soured cream",
+            "Method":"Heat oven to 160C/140C fan/gas 3. Heat 1 tbsp olive oil in a flameproof casserole dish or heavy-based saucepan. Sprinkle 700g stewing steak chunks with 30g plain flour and brown well in three batches, adding an extra 1 tbsp oil for each batch. Set the browned meat aside. Add in the remaining 1 tbsp oil to the casserole dish, followed by 1 large thinly sliced onion, 2 finely chopped garlic cloves, 1 green pepper and 1 red pepper, both finely sliced. Fry until softened, around 5-10 mins.Return the beef to the pan with 2 tbsp tomato purée and 2 tbsp paprika. Cook, stirring, for 2 mins.Add in 2 large diced tomatoes, 75ml dry white wine and 300ml beef stock. Cover and bake in the oven for 1 hr 30 mins - 2 hrs. Alternatively, cover and cook it on the hob on a gentle heat for about an hour, removing the lid after 45 mins. Sprinkle over 2 tbsp flat-leaf parsley leaves and season well with salt and freshly ground pepper. Stir in 150ml soured cream and serve."
+        },
+        {
+            "id": 13,
+            "title": "Chinese-style braised beef one-pot",
+            "prep time(minutes)": 10,
+            "cook time(minutes)": 150,
+            "complexity": "Easy",
+            "serves": 6,
+            "intruduction": "Great for casual entertaining, when you fancy a warming beef stew but with some more vibrant flavours",
+            "Nutrition per serving": {
+                "kcal":513,
+                "fat(g)":29,
+                "saturates(g)":10,
+                "carbs(g)":9,
+                "sugars(g)":4,
+                "fibre(g)":0,
+                "protein(g)":54,
+                "salt(g)":2.39
+            },
+            "Ingredients": "3-4 tbsp olive oil6 garlic cloves, thinly slicedgood thumb-size piece fresh root ginger, peeled and shredded1 bunch spring onions, sliced1 red chilli, deseeded and thinly sliced1 ½kg braising beef, cut into large pieces (we used ox cheek)2 tbsp plain flour, well seasoned1 tsp Chinese five-spice powder2 star anise (optional)2 tsp light muscovado sugar (or use whatever you've got)3 tbsp Chinese cooking wine or dry sherry3 tbsp dark soy sauce, plus more to serve500ml beef stock (we used Knorr Touch of Taste)steamed bok choi and steamed basmati rice, to serve",
+            "Method":"Heat 2 tbsp of the oil in a large, shallow casserole. Fry the garlic, ginger, onions and chilli for 3 mins until soft and fragrant. Tip onto a plate. Toss the beef in the flour, add 1 tbsp more oil to the pan, then brown the meat in batches, adding the final tbsp oil if you need to. It should take about 5 mins to brown each batch properly Add the five-spice and star anise (if using) to the pan, tip in the gingery mix, then fry for 1 min until the spices are fragrant. Add the sugar, then the beef and stir until combined. Keep the heat high, then splash in the wine or sherry, scraping up any meaty bits. Heat oven to 150C/fan 130C/gas 2 Pour in the soy and stock (it won’t cover the meat completely), bring to a simmer, then tightly cover, transfer to the oven and cook for 1½-2 hrs, stirring the meat halfway through. The meat should be very soft, and any sinewy bits should have melted away. Season with more soy. This can now be chilled and frozen for up to 1 month Nestle the cooked bok choi into the pan, then bring to the table with the basmati rice straight away and tuck in"
+        },
+        {
+            "id": 14,
+            "title": "Lamb bhuna",
+            "prep time(minutes)": 30,
+            "cook time(minutes)": 100,
+            "complexity": "More effort",
+            "serves": 4,
+            "intruduction": "Make this stunning lamb bhuna a day or two ahead of a big family feast – slow-cooked curries are better when the flavours have time to develop",
+            "Nutrition per serving": {
+                "kcal":455,
+                "fat(g)":31,
+                "saturates(g)":10,
+                "carbs(g)":12,
+                "sugars(g)":9,
+                "fibre(g)":4,
+                "protein(g)":31,
+                "salt(g)":0.55
+            },
+            "Ingredients": "600g lamb neck fillet or shoulder, cut into large chunks6 garlic cloves, finely gratedthumb-sized piece of ginger, peeled and finely grated2 tbsp malt vinegar½ tp ground cinnamon1 tbsp sunflower oil3 tbsp sunflower oil, plus a little extra if needed2 onions, finely chopped10 curry leaves2 dried chillies, or ½ tsp chilli flakes1 tsp cumin seeds1 tsp mustard seeds1 tsp ground coriander½ tsp fenugreek seeds or ground fenugreek",
+            "Method":"To make the marinade, combine the ingredients with a large pinch of salt in a large bowl. Toss in the lamb, cover and marinate for 1 hr at room temperature, or chill overnight For the sauce, heat the oil in a flameproof casserole and fry the onions for 10 mins, stirring until soft and golden. Drizzle in more oil if the pan gets dry. Add the curry leaves and chillies and fry for a few minutes, then add the spices and cook for 5 mins more until the onions start to caramelise  Tip in the lamb along with the marinade and turn the heat to high. Cook, stirring, for 5 mins until the lamb browns. Add the tomato purée and cook for 1 min, then stir in the tomatoes and 100ml water. Bring to a simmer, reduce the heat, cover and cook, stirring now and then, for 1 hr 20 mins until the lamb is tender. Uncover and cook for 8-10 mins more until the sauce has reduced and thickened. Remove from the heat, stir in the garam marsala and season. Will keep chilled for up to three days or frozen for two months"
+        },
+        {
+            "id": 15,
+            "title": "Braised pork with plums",
+            "prep time(minutes)": 25,
+            "cook time(minutes)": 120,
+            "complexity": "Easy",
+            "serves": 8,
+            "intruduction": "Meltingly tender meat in a spicy, fruity sauce, this meal is guaranteed to impress",
+            "Nutrition per serving": {
+                "kcal":530,
+                "fat(g)":36,
+                "saturates(g)":13,
+                "carbs(g)":11,
+                "sugars(g)":10,
+                "fibre(g)":1,
+                "protein(g)":40,
+                "salt(g)":2.87
+            },
+            "Ingredients": "bout 1.6kg/3lb 8oz pork shoulder5 tbsp rice wine5 tbsp light soy sauce for flavour, 1 tbsp dark for colourgenerous thumb-size piece fresh root ginger5 garlic cloves1 red chilli , deseeded and finely chopped2 tbsp vegetable oilbunch spring onions , finely sliced2 star anise1 ½ tsp five-spice powder1 cinnamon stick2 tbsp sugar , any type1 tbsp tomato purée500ml chicken stock6 ripe plums , halved and stoned",
+            "Method":"Cut the pork into big pieces about the length of your thumb and twice as wide. Put into a bowl or food bag, and add the wine, soy sauces, half the ginger, half the garlic and half the chilli. Marinate for at least 1 hr or up to 24 hrs. Heat oven to 160C/140C fan/gas 3, then heat the oil in a large casserole. Tip in half the spring onions, remaining ginger and garlic, the star anise, five-spice powder and cinnamon. Fry gently until fragrant and soft. Stir in the sugar, turn up the heat, then lift the pork from the marinade and turn in the oniony mix for about 3 mins until the meat is just sealed but not browned. Tip in the marinade, tomato purée and stock, give it a stir, cover, then braise in the oven for 2 hrs. After the first hr is up, add the plums to the pan. Take the lid off and carry on the cooking, uncovered. The meat should be completely tender, turning golden brown where it breaks the surface of the sauce. Spoon off any excess fat from the surface, then scoop the meat and plums carefully from the pan with a slotted spoon. Turn up the heat and boil the sauce for 5-10 mins until reduced and slightly syrupy. Return everything to the pan, gently warm through, then scatter the rest of the spring onions over the top to serve."
         }
+
         
 
     ]
