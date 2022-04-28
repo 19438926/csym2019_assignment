@@ -1,0 +1,67 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "title": "recipe",
+    "properties": {
+        "BBC Good food Recipes": {
+            "type": "array",
+            "item": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "integer"
+                    },
+                    "title": {
+                        "type": "string"
+                    },
+                    "prep time(minutes)": {
+                        "type": "integer"
+                    },
+                    "cook time(minutes)": {
+                        "type": "integer"
+                    },
+                    "complexity": {
+                        "type": "string"
+                    },
+                    "introduction": {
+                        "type": "string"
+                    },
+                    "Nutrition per sevring": {
+                        "type": "object",
+                        "properties": {
+                            "kcal": {
+                                "type": "integer"
+                            },
+                            "fat(g)": {
+                                "type": "integer"
+                            },
+                            "saturates(g)": {
+                                "type": "integer"
+                            },
+                            "carbs(g)": {
+                                "type": "integer"
+                            },
+                            "sugars(g)": {
+                                "type": "integer"
+                            },
+                            "fibres(g)": {
+                                "type": "integer"
+                            },
+                            "protein(g)": {
+                                "type": "integer"
+                            },
+                            "salt(g)": {
+                                "type": "double"
+                            }
+                        }
+                    },
+                    "Ingredients": {
+                        "type": "string"
+                    },
+                    "Method": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}
