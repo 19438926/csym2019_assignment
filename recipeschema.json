@@ -55,10 +55,10 @@
                         }
                     },
                     "Ingredients": {
-                        "type": "string"
+                        "type": "array","items":{"type":"string"}
                     },
                     "Method": {
-                        "type": "string"
+                        "type": "array","items":{"type":"string"}
                     }
                 }
             }
