@@ -1,22 +1,22 @@
 {
-    "BBC Good food Recipes": [
+    "Recipes": [
         {
             "id": 1,
             "title": "Herby spring chicken pot pie",
-            "prep time(minutes)": 10,
-            "cook time(minutes)": 30,
+            "preptime": 10,
+            "cooktime": 30,
             "complexity": "Easy",
             "serves": 4,
             "intruduction": "Minimise your washing-up with this delicious one-pan chicken pie with spinach and herbs and topped with crispy filo pastry. It's ideal for busy weeknights",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 526,
-                "fat(g)": 22,
-                "saturates(g)": 8,
-                "carbs(g)": 47,
-                "sugars(g)": 7,
-                "fibre(g)": 7,
-                "protein(g)": 32,
-                "salt(g)": 1.3
+                "fat": 22,
+                "saturates": 8,
+                "carbs": 47,
+                "sugars": 7,
+                "fibre": 7,
+                "protein": 32,
+                "salt": 1.3
             },
             "Ingredients": [
                 "2 tbsp olive oil , plus a little extra for brushing over the pastry",
@@ -39,20 +39,20 @@
         {
             "id": 2,
             "title": "Mini bakewell tarts",
-            "prep time(minutes)": 30,
-            "cook time(minutes)": 40,
+            "preptime": 30,
+            "cooktime": 40,
             "complexity": "Easy",
             "serves": 12,
             "intruduction": "Use shop-bought pastry to make our easy bakewell tarts. Simply layer jam, frangipane and icing inside a shortcrust case for a nostalgic teatime treat",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 534,
-                "fat(g)": 30,
-                "saturates(g)": 12,
-                "carbs(g)": 57,
-                "sugars(g)": 32,
-                "fibre(g)": 2,
-                "protein(g)": 6,
-                "salt(g)": 0.5
+                "fat": 30,
+                "saturates": 12,
+                "carbs": 57,
+                "sugars": 32,
+                "fibre": 2,
+                "protein": 6,
+                "salt": 0.5
             },
             "Ingredients": [
                 "2 x 320g sheets of all butter shortcrust pastry",
@@ -74,20 +74,20 @@
         {
             "id": 3,
             "title": "Lemon & buttermilk pound cake",
-            "prep time(minutes)": 25,
-            "cook time(minutes)": 45,
+            "preptime": 25,
+            "cooktime": 45,
             "complexity": "Easy",
             "serves": 12,
             "intruduction": "This buttermilk pound cake has a dense, moist crumb and bags of lemon flavour to cut through the richness. Make it for afternoon tea or for a summer picnic",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 291,
-                "fat(g)": 10,
-                "saturates(g)": 6,
-                "carbs(g)": 47,
-                "sugars(g)": 34,
-                "fibre(g)": 1,
-                "protein(g)": 4,
-                "salt(g)": 0.4
+                "fat": 10,
+                "saturates": 6,
+                "carbs": 47,
+                "sugars": 34,
+                "fibre": 1,
+                "protein": 4,
+                "salt": 0.4
             },
             "Ingredients": [
                 "125g butter, plus extra for the tin",
@@ -114,20 +114,20 @@
         {
             "id": 4,
             "title": "Spring chicken in a pot",
-            "prep time(minutes)": 20,
-            "cook time(minutes)": 45,
+            "preptime": 20,
+            "cooktime": 45,
             "complexity": "Easy",
             "serves": 4,
             "intruduction": "Casseroles aren't just for winter  this light, vibrant one-pot is packed with spring veg and herby pesto",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 339,
-                "fat(g)": 10,
-                "saturates(g)": 3,
-                "carbs(g)": 27,
-                "sugars(g)": 12,
-                "fibre(g)": 8,
-                "protein(g)": 36,
-                "salt(g)": 0.5
+                "fat": 10,
+                "saturates": 3,
+                "carbs": 27,
+                "sugars": 12,
+                "fibre": 8,
+                "protein": 36,
+                "salt": 0.5
             },
             "Ingredients": [
                 "1 tbsp olive oil",
@@ -149,20 +149,20 @@
         {
             "id": 5,
             "title": "Healthy Easter lamb",
-            "prep time(minutes)": 30,
-            "cook time(minutes)": 55,
+            "preptime": 30,
+            "cooktime": 55,
             "complexity": "Easy",
             "serves": 10,
             "intruduction": "Try a lighter take on roast lamb with this healthy Easter centrepiece. A trimmed leg of lamb is served with vibrant spring vegetables tossed in herbs and lemon",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 439,
-                "fat(g)": 17,
-                "saturates(g)": 5,
-                "carbs(g)": 15,
-                "sugars(g)": 6,
-                "fibre(g)": 12,
-                "protein(g)": 49,
-                "salt(g)": 0.37
+                "fat": 17,
+                "saturates": 5,
+                "carbs": 15,
+                "sugars": 6,
+                "fibre": 12,
+                "protein": 49,
+                "salt": 0.37
             },
             "Ingredients": [
                 "2 onions , peeled and thickly sliced",
@@ -190,20 +190,20 @@
         {
             "id": 6,
             "title": "Ham hock & cabbage hash",
-            "prep time(minutes)": 15,
-            "cook time(minutes)": 35,
+            "preptime": 15,
+            "cooktime": 35,
             "complexity": "Easy",
             "serves": 5,
             "intruduction": "A hearty bowl of comfort that's low fat and cheap to boot",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 263,
-                "fat(g)": 7,
-                "saturates(g)": 3,
-                "carbs(g)": 40,
-                "sugars(g)": 5,
-                "fibre(g)": 5,
-                "protein(g)": 14,
-                "salt(g)": 0.88
+                "fat": 7,
+                "saturates": 3,
+                "carbs": 40,
+                "sugars": 5,
+                "fibre": 5,
+                "protein": 14,
+                "salt": 0.88
             },
             "Ingredients": [
                 "1kg potato , unpeeled and cut into cubes",
@@ -223,20 +223,20 @@
         {
             "id": 7,
             "title": "Puffed salmon & spinach fish pie",
-            "prep time(minutes)": 15,
-            "cook time(minutes)": 60,
+            "preptime": 15,
+            "cooktime": 60,
             "complexity": "More effort",
             "serves": 6,
             "intruduction": "Adding greens to your mashed potato topping boosts the health benefits of this classic comfort food bake",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 449,
-                "fat(g)": 18,
-                "saturates(g)": 6,
-                "carbs(g)": 37,
-                "sugars(g)": 5,
-                "fibre(g)": 6,
-                "protein(g)": 33,
-                "salt(g)": 0.8
+                "fat": 18,
+                "saturates": 6,
+                "carbs": 37,
+                "sugars": 5,
+                "fibre": 6,
+                "protein": 33,
+                "salt": 0.8
             },
             "Ingredients": [
                 "1kg Maris Piper potato , cut into large chunks",
@@ -265,20 +265,20 @@
         {
             "id": 8,
             "title": "Chicken & chorizo ragu",
-            "prep time(minutes)": 15,
-            "cook time(minutes)": 40,
+            "preptime": 15,
+            "cooktime": 40,
             "complexity": "Easy",
             "serves": 4,
             "intruduction": "Serve this delicious chicken and chorizo ragu over rice or pasta as an easy midweek dinner for the family. You can freeze any leftovers for another day",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 383,
-                "fat(g)": 15,
-                "saturates(g)": 5,
-                "carbs(g)": 16,
-                "sugars(g)": 14,
-                "fibre(g)": 5,
-                "protein(g)": 44,
-                "salt(g)": 1.5
+                "fat": 15,
+                "saturates": 5,
+                "carbs": 16,
+                "sugars": 14,
+                "fibre": 5,
+                "protein": 44,
+                "salt": 1.5
             },
             "Ingredients": [
                 "120g cooking chorizo, chopped",
@@ -300,20 +300,20 @@
         {
             "id": 9,
             "title": "Herby fish fingers with Chinese-style rice",
-            "prep time(minutes)": 10,
-            "cook time(minutes)": 35,
+            "preptime": 10,
+            "cooktime": 35,
             "complexity": "Easy",
             "serves": 2,
             "intruduction": "This healthy, gluten-free lunch or dinner supplies a balance of carbs and protein, making it perfect for refuelling after exercise",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 487,
-                "fat(g)": 14,
-                "saturates(g)": 2,
-                "carbs(g)": 47,
-                "sugars(g)": 7,
-                "fibre(g)": 7,
-                "protein(g)": 40,
-                "salt(g)": 1.14
+                "fat": 14,
+                "saturates": 2,
+                "carbs": 47,
+                "sugars": 7,
+                "fibre": 7,
+                "protein": 40,
+                "salt": 1.14
             },
             "Ingredients": [
                 "100g brown basmati rice",
@@ -336,20 +336,20 @@
         {
             "id": 10,
             "title": "Meatball & garlic bread traybake",
-            "prep time(minutes)": 10,
-            "cook time(minutes)": 50,
+            "preptime": 10,
+            "cooktime": 50,
             "complexity": "Easy",
             "serves": 3,
             "intruduction": "Make this comforting meatball and garlic bread traybake for a dinner the whole family will enjoy. You could buy a pack of meatballs if you’re short on time",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 565,
-                "fat(g)": 28,
-                "saturates(g)": 13,
-                "carbs(g)": 34,
-                "sugars(g)": 19,
-                "fibre(g)": 6,
-                "protein(g)": 42,
-                "salt(g)": 1.3
+                "fat": 28,
+                "saturates": 13,
+                "carbs": 34,
+                "sugars": 19,
+                "fibre": 6,
+                "protein": 42,
+                "salt": 1.3
             },
             "Ingredients": [
                 "350g turkey thigh mince",
@@ -375,20 +375,20 @@
         {
             "id": 11,
             "title": "Beef & vegetable casserole",
-            "prep time(minutes)": 15,
-            "cook time(minutes)": 230,
+            "preptime": 15,
+            "cooktime": 230,
             "complexity": "Easy",
             "serves": 5,
             "intruduction": "A traditional braised beef stew with thick, rich gravy – an ideal recipe for cheap cuts, as slow-cooking guarantees a tender dish",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 483,
-                "fat(g)": 32.6,
-                "saturates(g)": 13.4,
-                "carbs(g)": 14.3,
-                "sugars(g)": 7.4,
-                "fibre(g)": 2.3,
-                "protein(g)": 33.7,
-                "salt(g)": 1.6
+                "fat": 32.6,
+                "saturates": 13.4,
+                "carbs": 14.3,
+                "sugars": 7.4,
+                "fibre": 2.3,
+                "protein": 33.7,
+                "salt": 1.6
             },
             "Ingredients": [
                 "2 celery sticks, thickly sliced",
@@ -416,20 +416,20 @@
         {
             "id": 12,
             "title": "Beef goulash",
-            "prep time(minutes)": 20,
-            "cook time(minutes)": 150,
+            "preptime": 20,
+            "cooktime": 150,
             "complexity": "Easy",
             "serves": 4,
             "intruduction": "Make this hearty beef goulash to feed the family on chilly nights. Stir in the soured cream and parsley for an indulgent, crowd-pleasing supper",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 576,
-                "fat(g)": 32,
-                "saturates(g)": 12,
-                "carbs(g)": 18,
-                "sugars(g)": 11,
-                "fibre(g)": 6,
-                "protein(g)": 46,
-                "salt(g)": 0.45
+                "fat": 32,
+                "saturates": 12,
+                "carbs": 18,
+                "sugars": 11,
+                "fibre": 6,
+                "protein": 46,
+                "salt": 0.45
             },
             "Ingredients": [
                 "4 tbsp olive oil",
@@ -459,20 +459,20 @@
         {
             "id": 13,
             "title": "Chinese-style braised beef one-pot",
-            "prep time(minutes)": 10,
-            "cook time(minutes)": 150,
+            "preptime": 10,
+            "cooktime": 150,
             "complexity": "Easy",
             "serves": 6,
             "intruduction": "Great for casual entertaining, when you fancy a warming beef stew but with some more vibrant flavours",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 513,
-                "fat(g)": 29,
-                "saturates(g)": 10,
-                "carbs(g)": 9,
-                "sugars(g)": 4,
-                "fibre(g)": 0,
-                "protein(g)": 54,
-                "salt(g)": 2.39
+                "fat": 29,
+                "saturates": 10,
+                "carbs": 9,
+                "sugars": 4,
+                "fibre": 0,
+                "protein": 54,
+                "salt": 2.39
             },
             "Ingredients": [
                 "3-4 tbsp olive oil",
@@ -500,20 +500,20 @@
         {
             "id": 14,
             "title": "Lamb bhuna",
-            "prep time(minutes)": 30,
-            "cook time(minutes)": 100,
+            "preptime": 30,
+            "cooktime": 100,
             "complexity": "More effort",
             "serves": 4,
             "intruduction": "Make this stunning lamb bhuna a day or two ahead of a big family feast – slow-cooked curries are better when the flavours have time to develop",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 455,
-                "fat(g)": 31,
-                "saturates(g)": 10,
-                "carbs(g)": 12,
-                "sugars(g)": 9,
-                "fibre(g)": 4,
-                "protein(g)": 31,
-                "salt(g)": 0.55
+                "fat": 31,
+                "saturates": 10,
+                "carbs": 12,
+                "sugars": 9,
+                "fibre": 4,
+                "protein": 31,
+                "salt": 0.55
             },
             "Ingredients": [
                 "600g lamb neck fillet or shoulder, cut into large chunks",
@@ -544,20 +544,20 @@
         {
             "id": 15,
             "title": "Braised pork with plums",
-            "prep time(minutes)": 25,
-            "cook time(minutes)": 120,
+            "preptime": 25,
+            "cooktime": 120,
             "complexity": "Easy",
             "serves": 8,
             "intruduction": "Meltingly tender meat in a spicy, fruity sauce, this meal is guaranteed to impress",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 530,
-                "fat(g)": 36,
-                "saturates(g)": 13,
-                "carbs(g)": 11,
-                "sugars(g)": 10,
-                "fibre(g)": 1,
-                "protein(g)": 40,
-                "salt(g)": 2.87
+                "fat": 36,
+                "saturates": 13,
+                "carbs": 11,
+                "sugars": 10,
+                "fibre": 1,
+                "protein": 40,
+                "salt": 2.87
             },
             "Ingredients": [
                 "about 1.6kg/3lb 8oz pork shoulder",
@@ -585,20 +585,20 @@
         {
             "id": 16,
             "title": "Easy huevos rancheros",
-            "prep time(minutes)": 3,
-            "cook time(minutes)": 7,
+            "preptime": 3,
+            "cooktime": 7,
             "complexity": "Easy",
             "serves": 1,
             "intruduction": "An easy Mexican breakfast that'll keep you going all morning, it's got everything you need to pep up your plate",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 682,
-                "fat(g)": 46,
-                "saturates(g)": 13,
-                "carbs(g)": 32,
-                "sugars(g)": 1,
-                "fibre(g)": 13,
-                "protein(g)": 27,
-                "salt(g)": 2.1
+                "fat": 46,
+                "saturates": 13,
+                "carbs": 32,
+                "sugars": 1,
+                "fibre": 13,
+                "protein": 27,
+                "salt": 2.1
             },
             "Ingredients": [
                 "1 tbsp vegetable oil or sunflower oil",
@@ -619,20 +619,20 @@
         {
             "id": 17,
             "title": "Minestrone in minutes",
-            "prep time(minutes)": 2,
-            "cook time(minutes)": 8,
+            "preptime": 2,
+            "cooktime": 8,
             "complexity": "Easy",
             "serves": 4,
             "intruduction": "Whip up a hearty bowl of soup in next to no time, perfect for a quick lunch or warming supper",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 162,
-                "fat(g)": 2,
-                "saturates(g)": 0,
-                "carbs(g)": 30,
-                "sugars(g)": 8,
-                "fibre(g)": 6,
-                "protein(g)": 8,
-                "salt(g)": 0.54
+                "fat": 2,
+                "saturates": 0,
+                "carbs": 30,
+                "sugars": 8,
+                "fibre": 6,
+                "protein": 8,
+                "salt": 0.54
             },
             "Ingredients": [
                 "1l hot vegetable stock",
@@ -651,20 +651,20 @@
         {
             "id": 18,
             "title": "Panuozzo sandwich",
-            "prep time(minutes)": 20,
-            "cook time(minutes)": 12,
+            "preptime": 20,
+            "cooktime": 12,
             "complexity": "Easy",
             "serves": 4,
             "intruduction": "Make your own baguettes and pesto to make these pizza-inspired sandwiches for the whole family. They're surprisingly quick and easy to make and are great for lunch or a light dinner",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 162,
-                "fat(g)": 2,
-                "saturates(g)": 0,
-                "carbs(g)": 30,
-                "sugars(g)": 8,
-                "fibre(g)": 6,
-                "protein(g)": 8,
-                "salt(g)": 0.54
+                "fat": 2,
+                "saturates": 0,
+                "carbs": 30,
+                "sugars": 8,
+                "fibre": 6,
+                "protein": 8,
+                "salt": 0.54
             },
             "Ingredients": [
                 "300g strong white bread flour, plus extra for dusting",
@@ -686,20 +686,20 @@
         {
             "id": 19,
             "title": "Easy teriyaki chicken",
-            "prep time(minutes)": 5,
-            "cook time(minutes)": 15,
+            "preptime": 5,
+            "cooktime": 15,
             "complexity": "Easy",
             "serves": 4,
             "intruduction": "Try this easy, sticky Asian-style teriyaki chicken for a speedy weeknight supper – it takes just 20 minutes to make! Serve it with sticky rice and steamed greens",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 243,
-                "fat(g)": 14,
-                "saturates(g)": 3,
-                "carbs(g)": 11,
-                "sugars(g)": 11,
-                "fibre(g)": 1,
-                "protein(g)": 18,
-                "salt(g)": 1.23
+                "fat": 14,
+                "saturates": 3,
+                "carbs": 11,
+                "sugars": 11,
+                "fibre": 1,
+                "protein": 18,
+                "salt": 1.23
             },
             "Ingredients": [
                 "2 tbsp toasted sesame oil",
@@ -722,20 +722,20 @@
         {
             "id": 20,
             "title": "Easy Thai prawn curry",
-            "prep time(minutes)": 5,
-            "cook time(minutes)": 15,
+            "preptime": 5,
+            "cooktime": 15,
             "complexity": "Easy",
             "serves": 4,
             "intruduction": "Try our easy Thai prawn curry on a busy weeknight. This quick dinner is ready in under 20 minutes and flavoured with warming red Thai curry paste",
-            "Nutrition per serving": {
+            "Nutrition": {
                 "kcal": 203,
-                "fat(g)": 13,
-                "saturates(g)": 8,
-                "carbs(g)": 8,
-                "sugars(g)": 7,
-                "fibre(g)": 2,
-                "protein(g)": 13,
-                "salt(g)": 1.25
+                "fat": 13,
+                "saturates": 8,
+                "carbs": 8,
+                "sugars": 7,
+                "fibre": 2,
+                "protein": 13,
+                "salt": 1.25
             },
             "Ingredients": [
                 "1 tbsp vegetable oil",
