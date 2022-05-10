@@ -16,7 +16,40 @@
         </nav>
         <main>
             <h3> New Recipe Entery Form</h3>
-            <form action="newrecipe.php" method="POST">
+<?php
+            if(isset($_POST['submit'])){
+                
+$server = 'db';
+$username = 'root';
+$password = 'csym019';
+
+$schema = 'Recipes';
+$pdo = new PDO('mysql:dbname=' . $schema . ';host=' . $server, $username, $password,
+[ PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]);
+
+$stmt= $pdo->prepare('INSERT INTO nutrition  (  title,kcal, fat , saturates,carbs,sugars,fibre,protein,salt)
+VALUES (:title,:kcal, :fat, :saturates, :carbs,:sugars,:fibre,:protein,:salt)');
+
+$values = [
+'title'=>$_POST['title'],
+'kcal' => $_POST['kcal'],
+'fat' => $_POST['fat'],
+'saturates' => $_POST['sat'],
+'carbs' => $_POST['carbs'],
+'sugars' => $_POST['sugars'],
+'fibre' => $_POST['fibre'],
+'protein' => $_POST['protein'],
+'salt' => $_POST['salt']
+
+];
+
+ $stmt->execute($values);
+ 
+  echo '<h4>'.'Thank you for submiting new recipe'.'</h4>';
+
+            }
+            ?>
+            <form action="addnewrecipe.php" method="POST">
                 title:<p><input type="text" name="title"/> 
                 </p>
                 kcal:<p><input type="text" name="kcal"/></p>
