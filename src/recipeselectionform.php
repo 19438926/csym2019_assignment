@@ -17,6 +17,8 @@
         </nav>
         <main>
             <h3> Recipe Selection Form</h3>
+            <form action="RecipeReport.php"  method="POST">
+            
             <?php
 
 $server = 'db';
@@ -32,7 +34,7 @@ echo '<table><tr><th>TICK</th><th>title</th><th>preptime</th><th>cooktime</th><t
 foreach ($results as $row) {
     
 
-    echo '<tr><td><input type="checkbox" /></td><td>'.$row['title'].'</td><td>'. $row['preptime'].'</td><td>'.$row['cooktime'].'</td><td>'.$row['complexity'].'</td><td>'.$row['serves'].'</td>
+    echo '<tr><td><input type="checkbox" value="'. $row['title'].'"name="title[]"/></td><td>'.$row['title'].'</td><td>'. $row['preptime'].'</td><td>'.$row['cooktime'].'</td><td>'.$row['complexity'].'</td><td>'.$row['serves'].'</td>
     <td>'.$row['kcal'].'</td><td>'.$row['fat'].'</td><td>'.$row['saturates'].'</td><td>'.$row['carbs'].'</td><td>'.$row['sugars'].'</td><td>'.$row['fibre'].'</td><td>'.$row['protein'].'</td><td>'.$row['salt'].'</td></tr>';
 }
 echo '</table>';
@@ -40,10 +42,10 @@ echo '</table>';
 ?>
 <br></br>
            
-            <form action="./SampleRecipeReport.html" class="addmore">
-                
+            
+
                 <input type="submit" value="Create Recipe Report" />
-                <!--input type="reset" value="Cancel" /-->                
+                               
             </form>
         </main>
         <footer>&copy; CSYM019 2022</footer>
