@@ -99,6 +99,8 @@ footer {
     background-color: #555;
     color: whitesmoke;
 }
-h4{
+main>table ,th,td,tr {
     color: red;
+
+
 }

@@ -35,6 +35,7 @@ foreach ($results as $row) {
 echo '</table>';
 
 ?>
+<br></br>
            
             <form action="./SampleRecipeReport.html" class="addmore">
                 
