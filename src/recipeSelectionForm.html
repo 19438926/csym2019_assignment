@@ -11,7 +11,7 @@
         <nav>
             <ul>
                 <li><a href="./recipeSelectionForm.html">Recipe Report</a></li>
-                <li><a href="./newRecipe.html">New Recipe</a></li>
+                <li><a href="./addnewrecipe.php">New Recipe</a></li>
             </ul>
         </nav>
         <main>
