@@ -11,7 +11,7 @@ $results = $pdo->query('SELECT * FROM recipe order by title');
 echo '<table><tr><th>title</th><th>preptime</th><th>cooktime</th><th>complexity</th><th>serves</th></tr>';
   
 foreach ($results as $row) {
-
+    echo '<input type="checkbox" />'. 
     echo '<tr><td>'.$row['title'].'</td><td>'. $row['preptime'].'</td><td>'.$row['cooktime'].'</td><td>'.$row['complexity'].'</td><td>'.$row['serves'].'</td></tr>';
 }
 echo '</table>';

@@ -10,7 +10,7 @@
         </header>
         <nav>
             <ul>
-                <li><a href="./recipeSelectionForm.html">Recipe Report</a></li>
+                <li><a href="./recipeselectionform.php">Recipe Report</a></li>
                 <li><a href="./addnewrecipe.php">New Recipe</a></li>
             </ul>
         </nav>

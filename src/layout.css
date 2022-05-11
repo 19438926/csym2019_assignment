@@ -99,8 +99,11 @@ footer {
     background-color: #555;
     color: whitesmoke;
 }
-main>table ,th,td,tr {
-    color: red;
+main > table ,th,td,tr {
+    color: green;
+    border: 2px solid;
+    border-collapse: collapse;
+    background-color: white;
 
 
 }
