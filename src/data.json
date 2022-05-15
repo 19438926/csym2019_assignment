@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Chinese-style braised beef one-pot",
+        "fat": "29",
+        "sugars": "4",
+        "saturates": "10",
+        "salt": "2.39",
+        "protein": "54",
+        "fibre": "0",
+        "carbs": "9"
+    },
+    {
+        "title": "Easy huevos rancheros",
+        "fat": "46",
+        "sugars": "1",
+        "saturates": "13",
+        "salt": "2.1",
+        "protein": "27",
+        "fibre": "13",
+        "carbs": "32"
+    },
+    {
+        "title": "Easy teriyaki chicken",
+        "fat": "14",
+        "sugars": "11",
+        "saturates": "3",
+        "salt": "1.23",
+        "protein": "18",
+        "fibre": "1",
+        "carbs": "11"
+    },
+    {
+        "title": "Ham hock & cabbage hash",
+        "fat": "7",
+        "sugars": "5",
+        "saturates": "3",
+        "salt": "0.88",
+        "protein": "14",
+        "fibre": "5",
+        "carbs": "40"
+    }
+]
