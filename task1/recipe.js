@@ -48,6 +48,6 @@ $(document).ready((function updateRecipe(){//start self-executing function
                 $("#updatemessage").html("<p>An error</p>");
             }
         });
-    },250);//set time out to be 250 millli seconds
-})());
+    },250);//set time out to be 250 milliseconds
+})());//self-executing function ends
 
