@@ -1,8 +1,8 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "title": "recipe",
+    "title": "BBC good  food recipe",
     "properties": {
-        "BBC Good food Recipes": {
+        "Recipes": {
             "type": "array",
             "item": {
                 "type": "object",
@@ -13,10 +13,10 @@
                     "title": {
                         "type": "string"
                     },
-                    "prep time(minutes)": {
+                    "preptime": {
                         "type": "integer"
                     },
-                    "cook time(minutes)": {
+                    "cooktime": {
                         "type": "integer"
                     },
                     "complexity": {
@@ -25,31 +25,31 @@
                     "introduction": {
                         "type": "string"
                     },
-                    "Nutrition per sevring": {
+                    "Nutrition": {
                         "type": "object",
                         "properties": {
                             "kcal": {
                                 "type": "integer"
                             },
-                            "fat(g)": {
+                            "fat": {
                                 "type": "integer"
                             },
-                            "saturates(g)": {
+                            "saturates": {
                                 "type": "integer"
                             },
-                            "carbs(g)": {
+                            "carbs": {
                                 "type": "integer"
                             },
-                            "sugars(g)": {
+                            "sugars": {
                                 "type": "integer"
                             },
-                            "fibres(g)": {
+                            "fibres": {
                                 "type": "integer"
                             },
-                            "protein(g)": {
+                            "protein": {
                                 "type": "integer"
                             },
-                            "salt(g)": {
+                            "salt": {
                                 "type": "double"
                             }
                         }
