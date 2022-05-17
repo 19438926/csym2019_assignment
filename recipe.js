@@ -1,17 +1,26 @@
-$(document).ready((function updateRecipe(){//start self-executing function
+$(document).ready((function updateRecipe(){
     setTimeout(function(){
         
-        $.ajax({//start J query
+        $.ajax({
             url:"recipe.json",
             type:"GET",
             dataType:"json",
             success:function(response){
-                let sTxt="";//set variable sTxt
-                $("#list").html("");//make relevant div blank
+               
+               
+                let mTxt="";
+                let sTxt="";
+                let iTxt="";
+                let wTxt="";
+                $("#list").html("");
+                let nu=response.Recipes;
+                
+                
+                
                 $.each(response.Recipes,function(index){
                     
                    
-                   //line 15 to 30 is to use $.each to loop every item to get data inside Recipes beside Method and Ingredients and make the relevant keys and tags to build the table which stores in sTxt
+                   
                    sTxt +="<h2>RECIPE</h2><table><tr><td>"+"id: "+response.Recipes[index].id+"</tr></td>"
                    +"<tr><td>"+"title: "+response.Recipes[index].title+"</tr></td>"
                    +"<tr><td>"+"pre time(minutes): "+response.Recipes[index].preptime+"</tr></td>"
@@ -28,26 +37,36 @@ $(document).ready((function updateRecipe(){//start self-executing function
                    +"<tr><td>"+"fibre(g): "+response.Recipes[index].Nutrition.fibre+"</tr></td>"
                    +"<tr><td>"+"protein(g): "+response.Recipes[index].Nutrition.protein+"</tr></td>"
                    +"<tr><td>"+"salt(g): "+response.Recipes[index].Nutrition.salt+"</tr></td></table><h2>METHODS</h2>";
-                   //line 32 to 40 is to get the array data sitting in the Method and ingredients 
                     for( let i=0 ; i<response.Recipes[index].Method.length;i++){
                         
-                        sTxt += "<main><ul><li>"+"STEP"+(i+1)+"  "+response.Recipes[index].Method[i]+"</li></ul></main>";//add step number and every items inside array and make them in list
+                        sTxt += "<main><ul><li>"+"STEP"+(i+1)+"  "+response.Recipes[index].Method[i]+"</li></ul></main>";
                     }
-                       sTxt += "<h2>INGREDIENTS</h2>"//create head for ingredients
+                       sTxt += "<h2>INGREDIENTS</h2>"
                     for( let i=0 ; i<response.Recipes[index].Ingredients.length;i++){
                         
-                        sTxt += "<main><ul><li>"+response.Recipes[index].Ingredients[i]+"</li></ul></main>";//add every item inside array and make them list
-                    }            
+                        sTxt += "<main><ul><li>"+response.Recipes[index].Ingredients[i]+"</li></ul></main>";
+                    }
+                    
+
+                     console.log(response.Recipes[index].Nutrition.kcal);
+
+                     
+
+
+                  
+                    
+                    
+                
+                    
                 });
                 
-                $("#list").append(sTxt);//Let the sTxt show on the div which has id=list
-                updateRecipe();//call function again
+                $("#list").append(sTxt);
                
             },
             error:function(){
                 $("#updatemessage").html("<p>An error</p>");
             }
         });
-    },250);//set time out to be 250 millli seconds
+    },2500);
 })());
 
